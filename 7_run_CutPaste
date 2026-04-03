@@ -3,25 +3,25 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "d2e78952",
+   "id": "fe87fc9e",
    "metadata": {
     "_cell_guid": "25850b57-4239-4489-90f6-527424691844",
     "_uuid": "17ce5a31-2526-470f-bdad-20659b3aa897",
     "collapsed": true,
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:52:31.522996Z",
-     "iopub.status.busy": "2026-03-27T07:52:31.522712Z",
-     "iopub.status.idle": "2026-03-27T07:52:47.827163Z",
-     "shell.execute_reply": "2026-03-27T07:52:47.826370Z"
+     "iopub.execute_input": "2026-04-03T13:44:18.293467Z",
+     "iopub.status.busy": "2026-04-03T13:44:18.292889Z",
+     "iopub.status.idle": "2026-04-03T13:44:31.977252Z",
+     "shell.execute_reply": "2026-04-03T13:44:31.976140Z"
     },
     "jupyter": {
      "outputs_hidden": true
     },
     "papermill": {
-     "duration": 16.311052,
-     "end_time": "2026-03-27T07:52:47.829446+00:00",
+     "duration": 13.691753,
+     "end_time": "2026-04-03T13:44:31.979722+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:52:31.518394+00:00",
+     "start_time": "2026-04-03T13:44:18.287969+00:00",
      "status": "completed"
     },
     "tags": []
@@ -6701,19 +6701,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "fe40b485",
+   "id": "5ab5c1c4",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:52:47.852937Z",
-     "iopub.status.busy": "2026-03-27T07:52:47.852563Z",
-     "iopub.status.idle": "2026-03-27T07:52:47.973087Z",
-     "shell.execute_reply": "2026-03-27T07:52:47.972257Z"
+     "iopub.execute_input": "2026-04-03T13:44:32.004792Z",
+     "iopub.status.busy": "2026-04-03T13:44:32.003835Z",
+     "iopub.status.idle": "2026-04-03T13:44:32.124543Z",
+     "shell.execute_reply": "2026-04-03T13:44:32.123663Z"
     },
     "papermill": {
-     "duration": 0.133416,
-     "end_time": "2026-03-27T07:52:47.974735+00:00",
+     "duration": 0.134147,
+     "end_time": "2026-04-03T13:44:32.126193+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:52:47.841319+00:00",
+     "start_time": "2026-04-03T13:44:31.992046+00:00",
      "status": "completed"
     },
     "tags": []
@@ -6726,19 +6726,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "9e74aa9a",
+   "id": "d87c15bc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:52:47.995461Z",
-     "iopub.status.busy": "2026-03-27T07:52:47.995162Z",
-     "iopub.status.idle": "2026-03-27T07:52:48.001087Z",
-     "shell.execute_reply": "2026-03-27T07:52:48.000433Z"
+     "iopub.execute_input": "2026-04-03T13:44:32.150142Z",
+     "iopub.status.busy": "2026-04-03T13:44:32.149665Z",
+     "iopub.status.idle": "2026-04-03T13:44:32.155343Z",
+     "shell.execute_reply": "2026-04-03T13:44:32.154732Z"
     },
     "papermill": {
-     "duration": 0.017941,
-     "end_time": "2026-03-27T07:52:48.002506+00:00",
+     "duration": 0.018723,
+     "end_time": "2026-04-03T13:44:32.156783+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:52:47.984565+00:00",
+     "start_time": "2026-04-03T13:44:32.138060+00:00",
      "status": "completed"
     },
     "tags": []
@@ -6759,21 +6759,21 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "54399670",
+   "id": "b42e0593",
    "metadata": {
     "_cell_guid": "6bba12f9-1ee4-48f2-9a23-06aabfe81236",
     "_uuid": "0f98e7d4-5597-4ca0-8b4e-767bb14eef40",
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:52:48.022365Z",
-     "iopub.status.busy": "2026-03-27T07:52:48.021927Z",
-     "iopub.status.idle": "2026-03-27T07:53:09.940135Z",
-     "shell.execute_reply": "2026-03-27T07:53:09.939418Z"
+     "iopub.execute_input": "2026-04-03T13:44:32.179093Z",
+     "iopub.status.busy": "2026-04-03T13:44:32.178801Z",
+     "iopub.status.idle": "2026-04-03T13:46:19.526890Z",
+     "shell.execute_reply": "2026-04-03T13:46:19.525997Z"
     },
     "papermill": {
-     "duration": 21.930106,
-     "end_time": "2026-03-27T07:53:09.941785+00:00",
+     "duration": 107.36131,
+     "end_time": "2026-04-03T13:46:19.528760+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:52:48.011679+00:00",
+     "start_time": "2026-04-03T13:44:32.167450+00:00",
      "status": "completed"
     },
     "tags": []
@@ -6788,9 +6788,9 @@
       "remote: Counting objects: 100% (36/36), done.\u001b[K\r\n",
       "remote: Compressing objects: 100% (28/28), done.\u001b[K\r\n",
       "remote: Total 365 (delta 13), reused 8 (delta 8), pack-reused 329 (from 1)\u001b[K\r\n",
-      "Receiving objects: 100% (365/365), 2.02 MiB | 14.47 MiB/s, done.\r\n",
+      "Receiving objects: 100% (365/365), 2.02 MiB | 14.08 MiB/s, done.\r\n",
       "Resolving deltas: 100% (56/56), done.\r\n",
-      "Filtering content: 100% (360/360), 2.14 GiB | 107.81 MiB/s, done.\r\n"
+      "Filtering content: 100% (360/360), 2.14 GiB | 20.71 MiB/s, done.\r\n"
      ]
     }
    ],
@@ -6801,19 +6801,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "41ffa9dd",
+   "id": "96057b93",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:53:09.969980Z",
-     "iopub.status.busy": "2026-03-27T07:53:09.969689Z",
-     "iopub.status.idle": "2026-03-27T07:53:15.305165Z",
-     "shell.execute_reply": "2026-03-27T07:53:15.304324Z"
+     "iopub.execute_input": "2026-04-03T13:46:19.560925Z",
+     "iopub.status.busy": "2026-04-03T13:46:19.559998Z",
+     "iopub.status.idle": "2026-04-03T13:46:21.161160Z",
+     "shell.execute_reply": "2026-04-03T13:46:21.160126Z"
     },
     "papermill": {
-     "duration": 5.350708,
-     "end_time": "2026-03-27T07:53:15.306998+00:00",
+     "duration": 1.619731,
+     "end_time": "2026-04-03T13:46:21.163126+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:09.956290+00:00",
+     "start_time": "2026-04-03T13:46:19.543395+00:00",
      "status": "completed"
     },
     "tags": []
@@ -6828,7 +6828,7 @@
       "remote: Counting objects: 100% (8/8), done.\u001b[K\r\n",
       "remote: Compressing objects: 100% (8/8), done.\u001b[K\r\n",
       "remote: Total 614 (delta 0), reused 1 (delta 0), pack-reused 606 (from 1)\u001b[K\r\n",
-      "Receiving objects: 100% (614/614), 1.85 MiB | 11.75 MiB/s, done.\r\n",
+      "Receiving objects: 100% (614/614), 1.85 MiB | 12.61 MiB/s, done.\r\n",
       "Resolving deltas: 100% (335/335), done.\r\n"
      ]
     }
@@ -6840,23 +6840,23 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "51ca3d85",
+   "id": "e21c74b7",
    "metadata": {
     "collapsed": true,
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:53:15.333287Z",
-     "iopub.status.busy": "2026-03-27T07:53:15.332708Z",
-     "iopub.status.idle": "2026-03-27T07:53:31.948691Z",
-     "shell.execute_reply": "2026-03-27T07:53:31.947924Z"
+     "iopub.execute_input": "2026-04-03T13:46:21.194085Z",
+     "iopub.status.busy": "2026-04-03T13:46:21.193749Z",
+     "iopub.status.idle": "2026-04-03T13:46:29.601979Z",
+     "shell.execute_reply": "2026-04-03T13:46:29.601138Z"
     },
     "jupyter": {
      "outputs_hidden": true
     },
     "papermill": {
-     "duration": 16.630793,
-     "end_time": "2026-03-27T07:53:31.950452+00:00",
+     "duration": 8.425083,
+     "end_time": "2026-04-03T13:46:29.603927+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:15.319659+00:00",
+     "start_time": "2026-04-03T13:46:21.178844+00:00",
      "status": "completed"
     },
     "tags": []
@@ -6875,7 +6875,7 @@
       "Requirement already satisfied: pillow>=8.4.0 in /usr/local/lib/python3.12/dist-packages (from -r requirements.txt (line 6)) (11.3.0)\r\n",
       "Collecting pretrainedmodels>=0.7.4 (from -r requirements.txt (line 7))\r\n",
       "  Downloading pretrainedmodels-0.7.4.tar.gz (58 kB)\r\n",
-      "\u001b[2K     \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m58.8/58.8 kB\u001b[0m \u001b[31m1.3 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n",
+      "\u001b[2K     \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m58.8/58.8 kB\u001b[0m \u001b[31m2.1 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n",
       "\u001b[?25h  Preparing metadata (setup.py) ... \u001b[?25l\u001b[?25hdone\r\n",
       "Requirement already satisfied: torch>=1.10.0 in /usr/local/lib/python3.12/dist-packages (from -r requirements.txt (line 8)) (2.10.0+cu128)\r\n",
       "Requirement already satisfied: scikit-image>=0.18.3 in /usr/local/lib/python3.12/dist-packages (from -r requirements.txt (line 9)) (0.25.2)\r\n",
@@ -6927,11 +6927,11 @@
       "Requirement already satisfied: mpmath<1.4,>=1.1.0 in /usr/local/lib/python3.12/dist-packages (from sympy>=1.13.3->torch>=1.10.0->-r requirements.txt (line 8)) (1.3.0)\r\n",
       "Requirement already satisfied: MarkupSafe>=2.0 in /usr/local/lib/python3.12/dist-packages (from jinja2->torch>=1.10.0->-r requirements.txt (line 8)) (3.0.3)\r\n",
       "Downloading faiss_cpu-1.13.2-cp310-abi3-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (23.8 MB)\r\n",
-      "\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m23.8/23.8 MB\u001b[0m \u001b[31m16.3 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n",
+      "\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m23.8/23.8 MB\u001b[0m \u001b[31m73.3 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n",
       "\u001b[?25hDownloading munch-4.0.0-py2.py3-none-any.whl (9.9 kB)\r\n",
       "Building wheels for collected packages: pretrainedmodels\r\n",
       "  Building wheel for pretrainedmodels (setup.py) ... \u001b[?25l\u001b[?25hdone\r\n",
-      "  Created wheel for pretrainedmodels: filename=pretrainedmodels-0.7.4-py3-none-any.whl size=60945 sha256=543811a2ebce5e6764cd7f09199df53afe5e367b0fc115ce650723dd2deafd2c\r\n",
+      "  Created wheel for pretrainedmodels: filename=pretrainedmodels-0.7.4-py3-none-any.whl size=60945 sha256=bc7d63c56bfd6bc549798859c7339909de0c87c3b28a744fc3296148c92bc742\r\n",
       "  Stored in directory: /root/.cache/pip/wheels/4c/01/56/40a48f75dbdfe167a0cb70d3b48913369a00ec5c4e9fed5f2b\r\n",
       "Successfully built pretrainedmodels\r\n",
       "Installing collected packages: munch, faiss-cpu, pretrainedmodels\r\n",
@@ -6948,23 +6948,23 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "6581a3d0",
+   "id": "6af1f2fd",
    "metadata": {
     "collapsed": true,
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:53:31.980412Z",
-     "iopub.status.busy": "2026-03-27T07:53:31.980139Z",
-     "iopub.status.idle": "2026-03-27T07:53:32.181713Z",
-     "shell.execute_reply": "2026-03-27T07:53:32.180828Z"
+     "iopub.execute_input": "2026-04-03T13:46:29.640033Z",
+     "iopub.status.busy": "2026-04-03T13:46:29.639260Z",
+     "iopub.status.idle": "2026-04-03T13:46:29.845439Z",
+     "shell.execute_reply": "2026-04-03T13:46:29.844745Z"
     },
     "jupyter": {
      "outputs_hidden": true
     },
     "papermill": {
-     "duration": 0.218196,
-     "end_time": "2026-03-27T07:53:32.183421+00:00",
+     "duration": 0.22613,
+     "end_time": "2026-04-03T13:46:29.847144+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:31.965225+00:00",
+     "start_time": "2026-04-03T13:46:29.621014+00:00",
      "status": "completed"
     },
     "tags": []
@@ -6985,23 +6985,345 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "67ac095b",
+   "id": "48d2efc0",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-04-03T13:46:29.880016Z",
+     "iopub.status.busy": "2026-04-03T13:46:29.879633Z",
+     "iopub.status.idle": "2026-04-03T13:46:29.999133Z",
+     "shell.execute_reply": "2026-04-03T13:46:29.998440Z"
+    },
+    "papermill": {
+     "duration": 0.137874,
+     "end_time": "2026-04-03T13:46:30.000606+00:00",
+     "exception": false,
+     "start_time": "2026-04-03T13:46:29.862732+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "# Towards Total Recall in Industrial Anomaly Detection\r\n",
+      "\r\n",
+      "This repository contains the implementation for `PatchCore` as proposed in Roth et al. (2021), <https://arxiv.org/abs/2106.08265>.\r\n",
+      "\r\n",
+      "It also provides various pretrained models that can achieve up to _99.6%_ image-level anomaly\r\n",
+      "detection AUROC, _98.4%_ pixel-level anomaly localization AUROC and _>95%_ PRO score (although the\r\n",
+      "later metric is not included for license reasons).\r\n",
+      "\r\n",
+      "![defect_segmentation](images/patchcore_defect_segmentation.png)\r\n",
+      "\r\n",
+      "_For questions & feedback, please reach out to karsten.rh1@gmail.com!_\r\n",
+      "\r\n",
+      "---\r\n",
+      "\r\n",
+      "## Quick Guide\r\n",
+      "\r\n",
+      "First, clone this repository and set the `PYTHONPATH` environment variable with `env PYTHONPATH=src python bin/run_patchcore.py`.\r\n",
+      "To train PatchCore on MVTec AD (as described below), run\r\n",
+      "\r\n",
+      "```\r\n",
+      "datapath=/path_to_mvtec_folder/mvtec datasets=('bottle' 'cable' 'capsule' 'carpet' 'grid' 'hazelnut'\r\n",
+      "'leather' 'metal_nut' 'pill' 'screw' 'tile' 'toothbrush' 'transistor' 'wood' 'zipper')\r\n",
+      "dataset_flags=($(for dataset in \"${datasets[@]}\"; do echo '-d '$dataset; done))\r\n",
+      "\r\n",
+      "\r\n",
+      "python bin/run_patchcore.py --gpu 0 --seed 0 --save_patchcore_model \\\r\n",
+      "--log_group IM224_WR50_L2-3_P01_D1024-1024_PS-3_AN-1_S0 --log_online --log_project MVTecAD_Results results \\\r\n",
+      "patch_core -b wideresnet50 -le layer2 -le layer3 --faiss_on_gpu \\\r\n",
+      "--pretrain_embed_dimension 1024  --target_embed_dimension 1024 --anomaly_scorer_num_nn 1 --patchsize 3 \\\r\n",
+      "sampler -p 0.1 approx_greedy_coreset dataset --resize 256 --imagesize 224 \"${dataset_flags[@]}\" mvtec $datapath\r\n",
+      "```\r\n",
+      "\r\n",
+      "which runs PatchCore on MVTec images of sizes 224x224 using a WideResNet50-backbone pretrained on\r\n",
+      "ImageNet. For other sample runs with different backbones, larger images or ensembles, see\r\n",
+      "`sample_training.sh`.\r\n",
+      "\r\n",
+      "Given a pretrained PatchCore model (or models for all MVTec AD subdatasets), these can be evaluated using\r\n",
+      "\r\n",
+      "```shell\r\n",
+      "datapath=/path_to_mvtec_folder/mvtec\r\n",
+      "loadpath=/path_to_pretrained_patchcores_models\r\n",
+      "modelfolder=IM224_WR50_L2-3_P001_D1024-1024_PS-3_AN-1_S0\r\n",
+      "savefolder=evaluated_results'/'$modelfolder\r\n",
+      "\r\n",
+      "datasets=('bottle'  'cable'  'capsule'  'carpet'  'grid'  'hazelnut' 'leather'  'metal_nut'  'pill' 'screw' 'tile' 'toothbrush' 'transistor' 'wood' 'zipper')\r\n",
+      "dataset_flags=($(for dataset in \"${datasets[@]}\"; do echo '-d '$dataset; done))\r\n",
+      "model_flags=($(for dataset in \"${datasets[@]}\"; do echo '-p '$loadpath'/'$modelfolder'/models/mvtec_'$dataset; done))\r\n",
+      "\r\n",
+      "python bin/load_and_evaluate_patchcore.py --gpu 0 --seed 0 $savefolder \\\r\n",
+      "patch_core_loader \"${model_flags[@]}\" --faiss_on_gpu \\\r\n",
+      "dataset --resize 366 --imagesize 320 \"${dataset_flags[@]}\" mvtec $datapath\r\n",
+      "```\r\n",
+      "\r\n",
+      "A set of pretrained PatchCores are hosted here: __add link__. To use them (and replicate training),\r\n",
+      "check out `sample_evaluation.sh` and `sample_training.sh`.\r\n",
+      "\r\n",
+      "---\r\n",
+      "\r\n",
+      "## In-Depth Description\r\n",
+      "\r\n",
+      "### Requirements\r\n",
+      "\r\n",
+      "Our results were computed using Python 3.8, with packages and respective version noted in\r\n",
+      "`requirements.txt`. In general, the majority of experiments should not exceed 11GB of GPU memory;\r\n",
+      "however using significantly large input images will incur higher memory cost.\r\n",
+      "\r\n",
+      "### Setting up MVTec AD\r\n",
+      "\r\n",
+      "To set up the main MVTec AD benchmark, download it from here: <https://www.mvtec.com/company/research/datasets/mvtec-ad>.\r\n",
+      "Place it in some location `datapath`. Make sure that it follows the following data tree:\r\n",
+      "\r\n",
+      "```shell\r\n",
+      "mvtec\r\n",
+      "|-- bottle\r\n",
+      "|-----|----- ground_truth\r\n",
+      "|-----|----- test\r\n",
+      "|-----|--------|------ good\r\n",
+      "|-----|--------|------ broken_large\r\n",
+      "|-----|--------|------ ...\r\n",
+      "|-----|----- train\r\n",
+      "|-----|--------|------ good\r\n",
+      "|-- cable\r\n",
+      "|-- ...\r\n",
+      "```\r\n",
+      "\r\n",
+      "containing in total 15 subdatasets: `bottle`, `cable`, `capsule`, `carpet`, `grid`, `hazelnut`,\r\n",
+      "`leather`, `metal_nut`, `pill`, `screw`, `tile`, `toothbrush`, `transistor`, `wood`, `zipper`.\r\n",
+      "\r\n",
+      "### \"Training\" PatchCore\r\n",
+      "\r\n",
+      "PatchCore extracts a (coreset-subsampled) memory of pretrained, locally aggregated training patch features:\r\n",
+      "\r\n",
+      "![patchcore_architecture](images/architecture.png)\r\n",
+      "\r\n",
+      "To do so, we have provided `bin/run_patchcore.py`, which uses `click` to manage and aggregate input\r\n",
+      "arguments. This looks something like\r\n",
+      "\r\n",
+      "```shell\r\n",
+      "python bin/run_patchcore.py \\\r\n",
+      "--gpu <gpu_id> --seed <seed> # Set GPU-id & reproducibility seed.\r\n",
+      "--save_patchcore_model # If set, saves the patchcore model(s).\r\n",
+      "--log_online # If set, logs results to a Weights & Biases account.\r\n",
+      "--log_group IM224_WR50_L2-3_P01_D1024-1024_PS-3_AN-1_S0 --log_project MVTecAD_Results results # Logging details: Name of the run & Name of the overall project folder.\r\n",
+      "\r\n",
+      "patch_core  # We now pass all PatchCore-related parameters.\r\n",
+      "-b wideresnet50  # Which backbone to use.\r\n",
+      "-le layer2 -le layer3 # Which layers to extract features from.\r\n",
+      "--faiss_on_gpu # If similarity-searches should be performed on GPU.\r\n",
+      "--pretrain_embed_dimension 1024  --target_embed_dimension 1024 # Dimensionality of features extracted from backbone layer(s) and final aggregated PatchCore Dimensionality\r\n",
+      "--anomaly_scorer_num_nn 1 --patchsize 3 # Num. nearest neighbours to use for anomaly detection & neighbourhoodsize for local aggregation.\r\n",
+      "\r\n",
+      "sampler # We now pass all the (Coreset-)subsampling parameters.\r\n",
+      "-p 0.1 approx_greedy_coreset # Subsampling percentage & exact subsampling method.\r\n",
+      "\r\n",
+      "dataset # We now pass all the Dataset-relevant parameters.\r\n",
+      "--resize 256 --imagesize 224 \"${dataset_flags[@]}\" mvtec $datapath # Initial resizing shape and final imagesize (centercropped) as well as the MVTec subdatasets to use.\r\n",
+      "```\r\n",
+      "\r\n",
+      "Note that `sample_runs.sh` contains exemplary training runs to achieve strong AD performance. Due to\r\n",
+      "repository changes (& hardware differences), results may deviate slightly from those reported in the\r\n",
+      "paper, but should generally be very close or even better. As mentioned previously, for re-use and\r\n",
+      "replicability we have also provided several pretrained PatchCore models hosted at __add link__ -\r\n",
+      "download the folder, extract, and pass the model of your choice to\r\n",
+      "`bin/load_and_evaluate_patchcore.py` which showcases an exemplary evaluation process.\r\n",
+      "\r\n",
+      "During (after) training, the following information will be stored:\r\n",
+      "\r\n",
+      "```shell\r\n",
+      "|PatchCore model (if --save_patchcore_model is set)\r\n",
+      "|-- models\r\n",
+      "|-----|----- mvtec_bottle\r\n",
+      "|-----|-----------|------- nnscorer_search_index.faiss\r\n",
+      "|-----|-----------|------- patchcore_params.pkl\r\n",
+      "|-----|----- mvtec_cable\r\n",
+      "|-----|----- ...\r\n",
+      "|-- results.csv # Contains performance for each subdataset.\r\n",
+      "\r\n",
+      "|Sample_segmentations (if --save_segmentation_images is set)\r\n",
+      "```\r\n",
+      "\r\n",
+      "In addition to the main training process, we have also included Weights-&-Biases logging, which\r\n",
+      "allows you to log all training & test performances online to Weights-and-Biases servers\r\n",
+      "(<https://wandb.ai>). To use that, include the `--log_online` flag and provide your W&B key in\r\n",
+      "`run_patchcore.py > --log_wandb_key`.\r\n",
+      "\r\n",
+      "Finally, due to the effectiveness and efficiency of PatchCore, we also incorporate the option to use\r\n",
+      "an ensemble of backbone networks and network featuremaps. For this, provide the list of backbones to\r\n",
+      "use (as listed in `/src/anomaly_detection/backbones.py`) with `-b <backbone` and, given their\r\n",
+      "ordering, denote the layers to extract with `-le idx.<layer_name>`. An example with three different\r\n",
+      "backbones would look something like\r\n",
+      "\r\n",
+      "```shell\r\n",
+      "python bin/run_patchcore.py --gpu <gpu_id> --seed <seed> --save_patchcore_model --log_group <log_name> --log_online --log_project <log_project> results \\\r\n",
+      "\r\n",
+      "patch_core -b wideresnet101 -b resnext101 -b densenet201 -le 0.layer2 -le 0.layer3 -le 1.layer2 -le 1.layer3 -le 2.features.denseblock2 -le 2.features.denseblock3 --faiss_on_gpu \\\r\n",
+      "\r\n",
+      "--pretrain_embed_dimension 1024  --target_embed_dimension 384 --anomaly_scorer_num_nn 1 --patchsize 3 sampler -p 0.01 approx_greedy_coreset dataset --resize 256 --imagesize 224 \"${dataset_flags[@]}\" mvtec $datapath\r\n",
+      "\r\n",
+      "```\r\n",
+      "\r\n",
+      "When using `--save_patchcore_model`, in the case of ensembles, a respective ensemble of PatchCore parameters is stored.\r\n",
+      "\r\n",
+      "### Evaluating a pretrained PatchCore model\r\n",
+      "\r\n",
+      "To evaluate a/our pretrained PatchCore model(s), run\r\n",
+      "\r\n",
+      "```shell\r\n",
+      "python bin/load_and_evaluate_patchcore.py --gpu <gpu_id> --seed <seed> $savefolder \\\r\n",
+      "patch_core_loader \"${model_flags[@]}\" --faiss_on_gpu \\\r\n",
+      "dataset --resize 366 --imagesize 320 \"${dataset_flags[@]}\" mvtec $datapath\r\n",
+      "```\r\n",
+      "\r\n",
+      "assuming your pretrained model locations to be contained in `model_flags`; one for each subdataset\r\n",
+      "in `dataset_flags`. Results will then be stored in `savefolder`. Example model & dataset flags:\r\n",
+      "\r\n",
+      "```shell\r\n",
+      "model_flags=('-p', 'path_to_mvtec_bottle_patchcore_model', '-p', 'path_to_mvtec_cable_patchcore_model', ...)\r\n",
+      "dataset_flags=('-d', 'bottle', '-d', 'cable', ...)\r\n",
+      "```\r\n",
+      "\r\n",
+      "### Expected performance of pretrained models\r\n",
+      "\r\n",
+      "While there may be minor changes in performance due to software & hardware differences, the provided\r\n",
+      "pretrained models should achieve the performances provided in their respective `results.csv`-files.\r\n",
+      "The mean performance (particularly for the baseline WR50 as well as the larger Ensemble model)\r\n",
+      "should look something like:\r\n",
+      "\r\n",
+      "| Model | Mean AUROC | Mean Seg. AUROC | Mean PRO\r\n",
+      "|---|---|---|---|\r\n",
+      "| WR50-baseline | 99.2% | 98.1% | 94.4%\r\n",
+      "| Ensemble | __99.6%__ | __98.2%__ | __94.9%__\r\n",
+      "\r\n",
+      "### Citing\r\n",
+      "\r\n",
+      "If you use the code in this repository, please cite\r\n",
+      "\r\n",
+      "```\r\n",
+      "@misc{roth2021total,\r\n",
+      "      title={Towards Total Recall in Industrial Anomaly Detection},\r\n",
+      "      author={Karsten Roth and Latha Pemula and Joaquin Zepeda and Bernhard Schölkopf and Thomas Brox and Peter Gehler},\r\n",
+      "      year={2021},\r\n",
+      "      eprint={2106.08265},\r\n",
+      "      archivePrefix={arXiv},\r\n",
+      "      primaryClass={cs.CV}\r\n",
+      "}\r\n",
+      "```\r\n",
+      "\r\n",
+      "## Security\r\n",
+      "\r\n",
+      "See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.\r\n",
+      "\r\n",
+      "## License\r\n",
+      "\r\n",
+      "This project is licensed under the Apache-2.0 License.\r\n"
+     ]
+    }
+   ],
+   "source": [
+    "cat README.md"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "f56a83e7",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-04-03T13:46:30.033009Z",
+     "iopub.status.busy": "2026-04-03T13:46:30.032376Z",
+     "iopub.status.idle": "2026-04-03T13:46:30.163880Z",
+     "shell.execute_reply": "2026-04-03T13:46:30.163085Z"
+    },
+    "papermill": {
+     "duration": 0.149286,
+     "end_time": "2026-04-03T13:46:30.165487+00:00",
+     "exception": false,
+     "start_time": "2026-04-03T13:46:30.016201+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "#关闭掉所有Tensorboard\n",
+    "!pkill -f tensorboard"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "1f330ca6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-04-03T13:46:30.200677Z",
+     "iopub.status.busy": "2026-04-03T13:46:30.200066Z",
+     "iopub.status.idle": "2026-04-03T13:46:57.011881Z",
+     "shell.execute_reply": "2026-04-03T13:46:57.011099Z"
+    },
+    "papermill": {
+     "duration": 26.832807,
+     "end_time": "2026-04-03T13:46:57.013999+00:00",
+     "exception": false,
+     "start_time": "2026-04-03T13:46:30.181192+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "/usr/local/lib/python3.12/dist-packages/tensorboard/_vendor/bleach/sanitizer.py:292: SyntaxWarning: invalid escape sequence '\\s'\r\n",
+      "  \"[`\\000-\\040\\177-\\240\\s]+\",\r\n",
+      "/usr/local/lib/python3.12/dist-packages/tensorboard/_vendor/bleach/sanitizer.py:339: SyntaxWarning: invalid escape sequence '\\s'\r\n",
+      "  style = re.compile('url\\s*\\(\\s*[^\\s)]+?\\s*\\)\\s*').sub(' ', style)\r\n",
+      "/usr/local/lib/python3.12/dist-packages/tensorboard/_vendor/bleach/sanitizer.py:354: SyntaxWarning: invalid escape sequence '\\s'\r\n",
+      "  if not re.match(\"^\\s*([-\\w]+\\s*:[^:;]*(;\\s*|$))*$\", style):\r\n",
+      "/usr/local/lib/python3.12/dist-packages/tensorboard/_vendor/bleach/sanitizer.py:358: SyntaxWarning: invalid escape sequence '\\w'\r\n",
+      "  for prop, value in re.findall('([-\\w]+)\\s*:\\s*([^:;]*)', style):\r\n",
+      "2026-04-03 13:46:33.692964: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:467] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\r\n",
+      "WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\r\n",
+      "E0000 00:00:1775223993.917178     125 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\r\n",
+      "E0000 00:00:1775223993.981263     125 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\r\n",
+      "W0000 00:00:1775223994.493449     125 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.\r\n",
+      "W0000 00:00:1775223994.493515     125 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.\r\n",
+      "W0000 00:00:1775223994.493530     125 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.\r\n",
+      "W0000 00:00:1775223994.493542     125 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.\r\n",
+      "Error: Must not specify both --host and --bind_all.\r\n"
+     ]
+    }
+   ],
+   "source": [
+    "#重新启动\n",
+    "!tensorboard --logdir /kaggle/working/tb_logs --host 0.0.0.0 --port 6006 --bind_all"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "591d9445",
    "metadata": {
     "collapsed": true,
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:53:32.212263Z",
-     "iopub.status.busy": "2026-03-27T07:53:32.211762Z",
-     "iopub.status.idle": "2026-03-27T07:53:42.768695Z",
-     "shell.execute_reply": "2026-03-27T07:53:42.767952Z"
+     "iopub.execute_input": "2026-04-03T13:46:57.048174Z",
+     "iopub.status.busy": "2026-04-03T13:46:57.047427Z",
+     "iopub.status.idle": "2026-04-03T13:47:03.169302Z",
+     "shell.execute_reply": "2026-04-03T13:47:03.168447Z"
     },
     "jupyter": {
      "outputs_hidden": true
     },
     "papermill": {
-     "duration": 10.572982,
-     "end_time": "2026-03-27T07:53:42.770408+00:00",
+     "duration": 6.140708,
+     "end_time": "2026-04-03T13:47:03.171064+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:32.197426+00:00",
+     "start_time": "2026-04-03T13:46:57.030356+00:00",
      "status": "completed"
     },
     "tags": []
@@ -7039,24 +7361,24 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
-   "id": "e3811302",
+   "execution_count": 12,
+   "id": "f4229a19",
    "metadata": {
     "collapsed": true,
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:53:42.801177Z",
-     "iopub.status.busy": "2026-03-27T07:53:42.800902Z",
-     "iopub.status.idle": "2026-03-27T07:53:44.927758Z",
-     "shell.execute_reply": "2026-03-27T07:53:44.926983Z"
+     "iopub.execute_input": "2026-04-03T13:47:03.204994Z",
+     "iopub.status.busy": "2026-04-03T13:47:03.204602Z",
+     "iopub.status.idle": "2026-04-03T13:47:05.412657Z",
+     "shell.execute_reply": "2026-04-03T13:47:05.411669Z"
     },
     "jupyter": {
      "outputs_hidden": true
     },
     "papermill": {
-     "duration": 2.1443,
-     "end_time": "2026-03-27T07:53:44.929908+00:00",
+     "duration": 2.226654,
+     "end_time": "2026-04-03T13:47:05.414435+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:42.785608+00:00",
+     "start_time": "2026-04-03T13:47:03.187781+00:00",
      "status": "completed"
     },
     "tags": []
@@ -7089,20 +7411,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
-   "id": "123c1682",
+   "execution_count": 13,
+   "id": "9dbaba94",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:53:44.958860Z",
-     "iopub.status.busy": "2026-03-27T07:53:44.958580Z",
-     "iopub.status.idle": "2026-03-27T07:53:45.079071Z",
-     "shell.execute_reply": "2026-03-27T07:53:45.078238Z"
+     "iopub.execute_input": "2026-04-03T13:47:05.448095Z",
+     "iopub.status.busy": "2026-04-03T13:47:05.447657Z",
+     "iopub.status.idle": "2026-04-03T13:47:05.564901Z",
+     "shell.execute_reply": "2026-04-03T13:47:05.564120Z"
     },
     "papermill": {
-     "duration": 0.136793,
-     "end_time": "2026-03-27T07:53:45.080704+00:00",
+     "duration": 0.136243,
+     "end_time": "2026-04-03T13:47:05.566628+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:44.943911+00:00",
+     "start_time": "2026-04-03T13:47:05.430385+00:00",
      "status": "completed"
     },
     "tags": []
@@ -7123,20 +7445,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 11,
-   "id": "8abec2dd",
+   "execution_count": 14,
+   "id": "56c54079",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-03-27T07:53:45.109654Z",
-     "iopub.status.busy": "2026-03-27T07:53:45.109101Z",
-     "iopub.status.idle": "2026-03-27T07:53:45.228215Z",
-     "shell.execute_reply": "2026-03-27T07:53:45.227340Z"
+     "iopub.execute_input": "2026-04-03T13:47:05.601775Z",
+     "iopub.status.busy": "2026-04-03T13:47:05.601382Z",
+     "iopub.status.idle": "2026-04-03T13:47:05.720305Z",
+     "shell.execute_reply": "2026-04-03T13:47:05.719268Z"
     },
     "papermill": {
-     "duration": 0.13521,
-     "end_time": "2026-03-27T07:53:45.229886+00:00",
+     "duration": 0.13857,
+     "end_time": "2026-04-03T13:47:05.722286+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:45.094676+00:00",
+     "start_time": "2026-04-03T13:47:05.583716+00:00",
      "status": "completed"
     },
     "tags": []
@@ -7148,14 +7470,41 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "a0b437ec",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "255d753f",
    "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-04-03T00:51:06.924182Z",
+     "iopub.status.busy": "2026-04-03T00:51:06.923393Z",
+     "iopub.status.idle": "2026-04-03T00:51:07.043963Z",
+     "shell.execute_reply": "2026-04-03T00:51:07.042737Z",
+     "shell.execute_reply.started": "2026-04-03T00:51:06.924153Z"
+    },
     "papermill": {
-     "duration": 0.014275,
-     "end_time": "2026-03-27T07:53:45.258814+00:00",
+     "duration": 0.016279,
+     "end_time": "2026-04-03T13:47:05.754928+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:45.244539+00:00",
+     "start_time": "2026-04-03T13:47:05.738649+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f718cf78",
+   "metadata": {
+    "jupyter": {
+     "source_hidden": true
+    },
+    "papermill": {
+     "duration": 0.015536,
+     "end_time": "2026-04-03T13:47:05.788100+00:00",
+     "exception": false,
+     "start_time": "2026-04-03T13:47:05.772564+00:00",
      "status": "completed"
     },
     "tags": []
@@ -7298,29 +7647,34 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "5eabb7b2",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "49812f99",
    "metadata": {
     "papermill": {
-     "duration": 0.013269,
-     "end_time": "2026-03-27T07:53:45.285881+00:00",
+     "duration": 0.015254,
+     "end_time": "2026-04-03T13:47:05.818711+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:45.272612+00:00",
+     "start_time": "2026-04-03T13:47:05.803457+00:00",
      "status": "completed"
     },
     "tags": []
    },
+   "outputs": [],
    "source": []
   },
   {
    "cell_type": "markdown",
-   "id": "6826405c",
+   "id": "39e56ff1",
    "metadata": {
+    "jupyter": {
+     "source_hidden": true
+    },
     "papermill": {
-     "duration": 0.013615,
-     "end_time": "2026-03-27T07:53:45.312852+00:00",
+     "duration": 0.015737,
+     "end_time": "2026-04-03T13:47:05.850041+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:45.299237+00:00",
+     "start_time": "2026-04-03T13:47:05.834304+00:00",
      "status": "completed"
     },
     "tags": []
@@ -7391,14 +7745,34 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "b2db6ea1",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "477c9e9a",
    "metadata": {
     "papermill": {
-     "duration": 0.013319,
-     "end_time": "2026-03-27T07:53:45.339826+00:00",
+     "duration": 0.015779,
+     "end_time": "2026-04-03T13:47:05.881182+00:00",
      "exception": false,
-     "start_time": "2026-03-27T07:53:45.326507+00:00",
+     "start_time": "2026-04-03T13:47:05.865403+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "81bf190d",
+   "metadata": {
+    "jupyter": {
+     "source_hidden": true
+    },
+    "papermill": {
+     "duration": 0.01624,
+     "end_time": "2026-04-03T13:47:05.913703+00:00",
+     "exception": false,
+     "start_time": "2026-04-03T13:47:05.897463+00:00",
      "status": "completed"
     },
     "tags": []
@@ -7687,14 +8061,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 77.658105,
-   "end_time": "2026-03-27T07:53:45.771309+00:00",
+   "duration": 170.424098,
+   "end_time": "2026-04-03T13:47:06.247297+00:00",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-03-27T07:52:28.113204+00:00",
+   "start_time": "2026-04-03T13:44:15.823199+00:00",
    "version": "2.7.0"
   }
  },
